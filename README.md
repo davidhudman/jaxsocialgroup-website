@@ -1,31 +1,24 @@
-# David Hudman - Full Stack Developer
+# Jax Social Group
 
-[davidhudman.com](https://davidhudman.com)
-
-- [Resume PDF](https://drive.google.com/file/d/1EUCtMWTBrS1XcNVteu6IcWiR9XNa1U1s/view?usp=sharing)
-- [LinkedIn](https://www.linkedin.com/in/david-hudman-b9a8b9a4/)
-- [Github](https://www.github.com/davidhudman)
-- [View Site Code](https://www.github.com/davidhudman/davidhudman.github.io)
-
-## Projects
-
-- [Flylert](https://www.flylert.com) - cheap flight emails
-- [Light Speed Pacing](https://www.lightspeedpacing.com) - track pacing lights for runners
+[Designed by David Hudman](https://davidhudman.com)
 
 ## Site Features
 
-- Link to LinkedIn, Github, projects, Venmo, CashApp, etc
-- Generate unique addresses for crypto payments
+- Link to social media and events
+
+## Planned features
+
+- merch purchases
 
 ## Getting Started
 
 Download the repo
 
-`git clone https://github.com/davidhudman/davidhudman.github.io.git davidhudman-site`
+`git clone https://github.com/davidhudman/jaxsocialgroup-website jaxsocialgroup-website`
 
 Change to that directory
 
-`cd davidhudman-site`
+`cd jaxsocialgroup-website`
 
 Install the packages with yarn
 
@@ -35,6 +28,6 @@ Start the project with yarn to run on http://localhost:3000
 
 `yarn start`
 
-Deploy changes to AWS
+Deploy changes to AWS (if you're on the authorized list)
 
 `yarn run deploy:prod`
